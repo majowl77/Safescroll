@@ -1,6 +1,6 @@
 ## Safescroll
-The objective of our SafeScroll project is to leverage AI to detect and flag unsuitable content on short video platforms (i.e., TikTok, YouTube Shorts) to ensure online safety for children.
-Our dataset consists of 2255 videos, and their associated titles: 1353 from TikTok and 902 from YouTube Shorts.
+The Demo of our SafeScroll project. The objective of our project is to leverage AI to detect and flag unsuitable content on short video platforms (i.e., TikTok, YouTube Shorts) to ensure online safety for children.
+Our dataset consists of 2255 videos and their associated titles: 1353 from TikTok and 902 from YouTube Shorts.
 
  ### Tool we've used   
 for scrapping the data:
